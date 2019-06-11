@@ -1,4 +1,4 @@
-package cn.ksdshpx.datastructrue.queue;
+package cn.ksdshpx.datastructure.queue;
 
 import java.util.Scanner;
 
